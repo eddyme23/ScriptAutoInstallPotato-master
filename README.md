@@ -1,10 +1,8 @@
 # Script Auto Install
-Channel Telegram : https://t.me/tunnelingpotato
+Ch
 
 ## Contact Us
-* Telegram   : @aldi_nc
-* Instagram : @aldi_nc
-* Whatsapp  : +6282111196213
+* Whatsapp  : +6281374452477
 
 ## Description
 
@@ -17,7 +15,7 @@ Channel Telegram : https://t.me/tunnelingpotato
 apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && apt-get install curl -y
 ```
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/common/install && chmod +x install && ./install
+wget --no-check-certificate https://raw.githubusercontent.com/acelrrh/ScriptAutoInstallPotato/master/common/install && chmod +x install && ./install
 ```
 
 ### What's server included
@@ -87,9 +85,6 @@ wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAut
 
 ### V2RAY/XRAY/TROJAN
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/IMG_20221001_025333.jpg?raw=true "Users Limit")
-
-### Backup & Restore
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/backup-restore1.gif?raw=true "Backup and Restore Web")
 
 ### Fix
 * sent invalidate(passwd) request, exiting
