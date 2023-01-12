@@ -5,6 +5,6 @@
 
 ##ETH
 
-##DANA (Indonesia)
+##OVO (Indonesia)
 
 ##Gopay (Indonesia)
