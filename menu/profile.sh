@@ -7,4 +7,4 @@ if [ "$BASH" ]; then
 fi
 
 mesg n || true
-desain p0t4t0
+desain bangboy
