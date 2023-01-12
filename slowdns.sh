@@ -25,17 +25,17 @@ function LOGO() {
   clear
 	echo -e ""
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
-	echo -e "${ungu}             Potato Tunneling            "
+	echo -e "${ungu}             babang boy Tunneling            "
 	echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 	echo -e ""
 }
 
-function Credit_Potato() {
+function Credit_babangboy() {
 sleep 1
 echo -e "" 
 echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 echo -e "${ungu}      Terimakasih sudah menggunakan-"
-echo -e "         Script Credit by Potato"
+echo -e "         Script Credit by babang boy."
 echo -e "${BlueCyan} ————————————————————————————————————————${Suffix}"
 echo -e ""
 exit 0
@@ -253,7 +253,7 @@ function menu_dns() {
     *)
     echo -e " ${Red}Please enter an correct number${Suffix}"
     echo -e ""
-    Credit_Potato
+    Credit_babangboy
     ;;
     esac
 
@@ -278,7 +278,7 @@ function menu_dns() {
     *)
     echo -e " ${Red}Please enter an correct number${Suffix}"
     echo -e ""
-    Credit_Potato
+    Credit_babangboy
     ;;
     esac
 
