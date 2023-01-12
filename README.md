@@ -91,10 +91,6 @@ wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAut
 ### Backup & Restore
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/backup-restore1.gif?raw=true "Backup and Restore Web")
 
-### Backup & Restore Termux
-* Cooming soon
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/termux.gif?raw=true "Backup and Restore Termux")
-
 ### Fix
 * sent invalidate(passwd) request, exiting
 * sent invalidate(group) request, exiting
