@@ -95,9 +95,6 @@ wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAut
 * Cooming soon
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/termux.gif?raw=true "Backup and Restore Termux")
 
-### Get CHATID
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Get Chat ID Telegram")
-
 ### Fix
 * sent invalidate(passwd) request, exiting
 * sent invalidate(group) request, exiting
