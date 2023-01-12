@@ -1,7 +1,7 @@
 #!/bin/bash
 IP=$(wget -qO- ipv4.icanhazip.com);
 echo -e "--------------------------------------"
-echo -e "    Script Auto Install by Potato"
+echo -e "    Script Auto Install by Babang boy"
 echo -e "--------------------------------------"
 echo -e "         Detail Konfigurasi"
 echo -e "--------------------------------------"
@@ -19,5 +19,5 @@ echo -e "OpenVPN UDP  : 25000"
 echo -e "Config http://$IP:81/myvpn-config.zip"
 echo -e ""
 echo -e "--------------------------------------"
-echo -e "      Donate   :   t.me/aldi_nc"
+echo -e "      Donate   :   wa : 081374452477"
 echo -e "--------------------------------------"
